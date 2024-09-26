@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d3cfd3997ca2cf246aad10830455c5a1
+guid: 492097689790fc44db72c04957b33ff9
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,91 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MouseWalking_0
+      name: MouseWalking (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df391618dd73f044a7b4037d3d94419
+      internalID: 425959910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseWalking (1)_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0a0ca144ecd4d4b9d2b33381118dbc
+      internalID: -1399564600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseWalking (1)_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a867312de8df2d458faba46b6f3a2fa
+      internalID: 1579128466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseWalking (1)_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 208
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2340789167a9a48aa3eb7de8bafb3c
+      internalID: -1060906178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MouseWalking (1)_4
       rect:
         serializedVersion: 2
         x: 0
@@ -111,14 +195,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b912030f2245e7e41aa5316bef8dedd6
-      internalID: 1300606694
+      spriteID: acea2d4e3c0e39d45891cadce6015445
+      internalID: 760450182
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_1
+      name: MouseWalking (1)_5
       rect:
         serializedVersion: 2
         x: 52
@@ -132,14 +216,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d2ef04f49be990741bfadaacd2315682
-      internalID: -1604604512
+      spriteID: 30eed35b5c6d01c459933c9a184ed36c
+      internalID: -2120283486
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_2
+      name: MouseWalking (1)_6
       rect:
         serializedVersion: 2
         x: 104
@@ -153,14 +237,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fb55aa480c1ac384188792dda9dc0089
-      internalID: -1927438140
+      spriteID: a93f15d946071214782acfdbedc1f5f4
+      internalID: -184225989
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_3
+      name: MouseWalking (1)_7
       rect:
         serializedVersion: 2
         x: 156
@@ -174,14 +258,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3ed1fa14bdfd4540a1bab687d2a91f9
-      internalID: -205965836
+      spriteID: e0f1319320c70ad4997a3e734ddc61a8
+      internalID: 28720333
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_4
+      name: MouseWalking (1)_8
       rect:
         serializedVersion: 2
         x: 0
@@ -195,14 +279,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c1e1383e82df36646bab9902903b6324
-      internalID: -404542253
+      spriteID: e82c400b97920f44daaa1e17bcfbeb47
+      internalID: 1015741853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_5
+      name: MouseWalking (1)_9
       rect:
         serializedVersion: 2
         x: 52
@@ -216,14 +300,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 113a1b728aa168941a132480d56e779b
-      internalID: -1130304179
+      spriteID: 8ddb7f2e69da4d84cbc0838471b2d8eb
+      internalID: 970492469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_6
+      name: MouseWalking (1)_10
       rect:
         serializedVersion: 2
         x: 104
@@ -237,14 +321,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 018e45525c03c044e8ea286dc72dde37
-      internalID: 25977967
+      spriteID: 80b82364766a7a34cafb6b890274e3c0
+      internalID: 336917123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_7
+      name: MouseWalking (1)_11
       rect:
         serializedVersion: 2
         x: 156
@@ -258,14 +342,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4bd4066af3590a448782efe6153962f
-      internalID: -605255890
+      spriteID: bb5abaf30b56c314081a1fc4749f0895
+      internalID: 1817080288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_8
+      name: MouseWalking (1)_12
       rect:
         serializedVersion: 2
         x: 0
@@ -279,14 +363,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f47917f5ce192e942a04904997963341
-      internalID: 445378932
+      spriteID: 0f98467c2a77fe94ea73bcd9de6af866
+      internalID: -758340583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_9
+      name: MouseWalking (1)_13
       rect:
         serializedVersion: 2
         x: 52
@@ -300,14 +384,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d60f939d7aadfef48998c1978cc1b90c
-      internalID: 1336479038
+      spriteID: fcff3f4211f5a95488d681e2ff1af864
+      internalID: 659845893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_10
+      name: MouseWalking (1)_14
       rect:
         serializedVersion: 2
         x: 104
@@ -321,14 +405,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a39535753c08f274eb554b68391cd094
-      internalID: -238052748
+      spriteID: f20918908d82f08458903b14125db095
+      internalID: -644020077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_11
+      name: MouseWalking (1)_15
       rect:
         serializedVersion: 2
         x: 156
@@ -342,14 +426,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 052f8be3f8bc47f49bf6815a331bb71c
-      internalID: 1446133777
+      spriteID: 32b52f293d0cdec479151dc0d16ee33f
+      internalID: -2091516310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_12
+      name: MouseWalking (1)_16
       rect:
         serializedVersion: 2
         x: 0
@@ -363,14 +447,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9a5e4ea757aa2a41a77d7fa32c6c825
-      internalID: -714127387
+      spriteID: 3a5663130e9bee84fb596e873a216a9c
+      internalID: 817128023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_13
+      name: MouseWalking (1)_17
       rect:
         serializedVersion: 2
         x: 52
@@ -384,14 +468,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69860cba8e1a1f94eb1df9f86400019d
-      internalID: 881966342
+      spriteID: 1f5593349d7ebb84b9f1f061968899c1
+      internalID: -475643734
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_14
+      name: MouseWalking (1)_18
       rect:
         serializedVersion: 2
         x: 104
@@ -405,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8da7b881f0ae6549802004ad7e0e8b8
-      internalID: 2065883799
+      spriteID: 7572c4ab308032e4491d297222ee082e
+      internalID: 1699928462
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: MouseWalking_15
+      name: MouseWalking (1)_19
       rect:
         serializedVersion: 2
         x: 156
@@ -426,8 +510,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8135fd6edeb70414bb055a4db3d4b5aa
-      internalID: 423409369
+      spriteID: e3b769f7efe14284a971b06f0a175876
+      internalID: -1484946854
       vertices: []
       indices: 
       edges: []
@@ -436,29 +520,33 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 1537655665
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      MouseWalking_0: 1300606694
-      MouseWalking_1: -1604604512
-      MouseWalking_10: -238052748
-      MouseWalking_11: 1446133777
-      MouseWalking_12: -714127387
-      MouseWalking_13: 881966342
-      MouseWalking_14: 2065883799
-      MouseWalking_15: 423409369
-      MouseWalking_2: -1927438140
-      MouseWalking_3: -205965836
-      MouseWalking_4: -404542253
-      MouseWalking_5: -1130304179
-      MouseWalking_6: 25977967
-      MouseWalking_7: -605255890
-      MouseWalking_8: 445378932
-      MouseWalking_9: 1336479038
+      MouseWalking (1)_0: 425959910
+      MouseWalking (1)_1: -1399564600
+      MouseWalking (1)_10: 336917123
+      MouseWalking (1)_11: 1817080288
+      MouseWalking (1)_12: -758340583
+      MouseWalking (1)_13: 659845893
+      MouseWalking (1)_14: -644020077
+      MouseWalking (1)_15: -2091516310
+      MouseWalking (1)_16: 817128023
+      MouseWalking (1)_17: -475643734
+      MouseWalking (1)_18: 1699928462
+      MouseWalking (1)_19: -1484946854
+      MouseWalking (1)_2: 1579128466
+      MouseWalking (1)_3: -1060906178
+      MouseWalking (1)_4: 760450182
+      MouseWalking (1)_5: -2120283486
+      MouseWalking (1)_6: -184225989
+      MouseWalking (1)_7: 28720333
+      MouseWalking (1)_8: 1015741853
+      MouseWalking (1)_9: 970492469
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
